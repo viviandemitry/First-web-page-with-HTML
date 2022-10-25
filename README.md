@@ -42,7 +42,3 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 <p align="center">
   <img alt="contact" src="pic2.png">
 </p>
-
-
-
-
