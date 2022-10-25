@@ -8,14 +8,14 @@ These pages were built using simples tags of html and images.
 
 ## 🚀 Technologies
 
-Here was developed with the technologies bellow:
+It was developed with the technologies bellow:
 
 
 - HTML 
 
 ## 💻 Project
 
-The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the "who we are" page and the third one contains the contact.
+The Webpage simulates a handmade cosmetic webpage, with 3 pages, the mainly, the "who we are" page and the third one contains the contact.
 
 ## 🔖 Layout
 
