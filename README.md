@@ -25,14 +25,14 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 <br>
 
 <p align="center">Principal page</p><br>
-<p align="center"><img alt="primeira pagina" src="pic1.png></p>
+<p align="center"><img alt="primeira pagina" src=".github/First-web-page-with-HTML/pic1.png></p>
 
 <br>
 
 <p align="center">Who we are page</p>
 <br>
 <p align="center">
-  <img alt="who we are" src="quemsomos.png">
+  <img alt="who we are" src=".github/First-web-page-with-HTML/quemsomos.png">
 </p>
 
 <br>
@@ -40,5 +40,5 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 <p align="center">Contact page</p>
 <br>
 <p align="center">
-  <img alt="contact" src="pic2.png">
+  <img alt="contact" src=".github/First-web-page-with-HTML/pic2.png">
 </p>
