@@ -19,17 +19,13 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 
 ## 🔖 Layout
 
-<p align="center">Principal page</p>
-<p align="center"><img alt="primeira pagina" src="pic1.png></p>
+
+<p align="center"><bold>Principal page</p><bold><br>
+<p align="center"><img alt="primeira pagina" src="https://github.com/viviandemitry/First-web-page-with-HTML/blob/main/pic1.png></p>
 
 <br>
 
-<p align="center">Principal page</p><br>
-<p align="center"><img alt="primeira pagina" src=".github/First-web-page-with-HTML/pic1.png></p>
-
-<br>
-
-<p align="center">Who we are page</p>
+<p align="center"><bold>Who we are page<bold></p>
 <br>
 <p align="center">
   <img alt="who we are" src="https://github.com/viviandemitry/First-web-page-with-HTML/blob/main/picquemsomos.png">
