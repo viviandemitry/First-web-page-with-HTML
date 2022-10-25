@@ -32,7 +32,7 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 <p align="center">Who we are page</p>
 <br>
 <p align="center">
-  <img alt="who we are" src=".github/First-web-page-with-HTML/quemsomos.png](https://github.com/viviandemitry/First-web-page-with-HTML/blob/main/picquemsomos.png)">
+  <img alt="who we are" src="https://github.com/viviandemitry/First-web-page-with-HTML/blob/main/picquemsomos.png">
 </p>
 
 <br>
