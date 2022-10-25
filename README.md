@@ -40,5 +40,5 @@ The Webpage simulate a handmade cosmetic webpage, with 3 pages, the mainly, the 
 <p align="center">Contact page</p>
 <br>
 <p align="center">
-  <img alt="contact" src="//github.com/viviandemitry/First-web-page-with-HTML/blob/main/pic2.png">
+  <img alt="contact" src="https://github.com/viviandemitry/First-web-page-with-HTML/blob/main/pic2.PNG">
 </p>
