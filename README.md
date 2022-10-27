@@ -15,7 +15,7 @@ It was developed with the technologies bellow:
 
 ## 💻 Project
 
-The Webpage simulates a handmade cosmetic webpage, with 3 pages, the main one, the "about us" page and the third one contains the contact.
+The Webpage simulates a handmade cosmetic webpage with simple design. There are 3 pages, the main one, the "about us" page and the third one contains the contact.
 
 ## 🔖 Layout
 
